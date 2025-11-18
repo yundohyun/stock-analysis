@@ -34,7 +34,7 @@
 
 ## 🎥 시연 영상
 
-<video src="./assets/preview.mp4"></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xfOvBO3Tjv8?si=ddL4ujl2iEBGwZHn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 💬 느낀점
 
