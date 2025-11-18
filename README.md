@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Stock%20Analysis&animation=fadeIn&&customColorList=1)
 
-<center>주식과 코인에 대해서 여러 분석을 제공해주는 프로젝트</center>
+<p align="center">주식과 코인에 대해서 여러 분석을 제공해주는 프로젝트</p>
 
 ## 🙋‍♂️ 팀원
 
