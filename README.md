@@ -1,4 +1,4 @@
-# 주식 & 코인 분석 Streamlit
+<h1 align="center">주식 & 코인 분석 Streamlit</h1>
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Stock%20Analysis&animation=fadeIn&&customColorList=1)
 
